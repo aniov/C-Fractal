@@ -5,7 +5,7 @@
  
  Screens
 -----------------------------------------------------
-![alt text](https://github.com/aniov/C-Fractal/blob/master/src/screens/Fractal-Julia.png "Screen one")
-![alt text](https://github.com/aniov/C-Fractal/blob/master/src/screens/Fractal-Mondelbrot.png "Screen one")
+![alt text](https://github.com/aniov/C-Fractal/blob/master/screens/Julia.png "Screen one")
+![alt text](https://github.com/aniov/C-Fractal/blob/master/screens/Mandelbort.png "Screen two")
 
 
