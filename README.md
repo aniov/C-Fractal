@@ -1,7 +1,7 @@
 # C-Fractal
 
  This project is meant to create graphically beautiful fractals
- (Julia, Mondelbrot, Ship)
+ (Julia, Mandelbrot, Ship)
  
  Screens
 -----------------------------------------------------
